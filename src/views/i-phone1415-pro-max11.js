@@ -29,8 +29,8 @@ const IPhone1415ProMax11 = (props) => {
           <span>Tap Continue to receive OTP via SMS to Login</span>
         </span>
         <img
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/a633f613-aa17-4d99-ae22-8e25b275a9ae/33bdb608-1eab-4adf-b633-b1ea26a68f77?org_if_sml=11295&amp;force_format=original"
           alt="Rectangle1129"
+          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/a633f613-aa17-4d99-ae22-8e25b275a9ae/5d088c3e-cadf-41f7-a01c-4988217ab0cf?org_if_sml=11295&amp;force_format=original"
           className="i-phone1415-pro-max11-rectangle1"
         />
         <span className="i-phone1415-pro-max11-text07">
@@ -38,13 +38,13 @@ const IPhone1415ProMax11 = (props) => {
         </span>
         <div className="i-phone1415-pro-max11-group19">
           <img
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/a633f613-aa17-4d99-ae22-8e25b275a9ae/82662ca4-e0ed-45c1-ad60-3211861dcb88?org_if_sml=115902&amp;force_format=original"
             alt="Rectangle386710"
+            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/a633f613-aa17-4d99-ae22-8e25b275a9ae/e0ea718c-154e-4a9d-aec9-00549cb54310?org_if_sml=115902&amp;force_format=original"
             className="i-phone1415-pro-max11-rectangle38"
           />
           <img
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/a633f613-aa17-4d99-ae22-8e25b275a9ae/ae0896e1-5ccb-4c5c-a90c-b60b7228ac8f?org_if_sml=126592&amp;force_format=original"
             alt="Rectangle396710"
+            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/a633f613-aa17-4d99-ae22-8e25b275a9ae/8ce40e5c-91c3-4bdb-8355-c40f958d8c6b?org_if_sml=126592&amp;force_format=original"
             className="i-phone1415-pro-max11-rectangle39"
           />
           <span className="i-phone1415-pro-max11-text09">
@@ -54,8 +54,8 @@ const IPhone1415ProMax11 = (props) => {
             <span>+91</span>
           </span>
           <img
-            src="/external/vector16710-767.svg"
             alt="Vector16710"
+            src="/external/vector16710-uthi.svg"
             className="i-phone1415-pro-max11-vector1"
           />
         </div>
